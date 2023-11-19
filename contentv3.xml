@@ -202,7 +202,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="90952"></int>
+                  <int value="90980"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -216,7 +216,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="733_733_2.41"></unicode>
+                <unicode value="733_733_2.44"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -227,7 +227,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                   <string role="key" value="_storageName"></string>
                   <string value="actividades.jpeg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\actividades.jpeg"></string>
+                  <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\actividades.jpeg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="0473fa1da161d69f12c052be1ffc0ffc"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -254,7 +254,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="90978"></int>
+                  <int value="90992"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -268,7 +268,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="733_733_2.43"></unicode>
+                <unicode value="733_733_2.45"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="6">
                  <dictionary>
@@ -279,7 +279,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                   <string role="key" value="_storageName"></string>
                   <string value="INTEGRACION_DE_CHATGPT_Y_LA_IA_EN_LA_EDUCACION.pdf"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmp3dw1fo.eXe\\previews\\allyourbase\\INTEGRACI\xc3\x93N_DE_CHATGPT_Y_LA_IA_EN_LA_EDUCACI\xc3\x93N.pdf"></string>
+                  <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\INTEGRACION_DE_CHATGPT_Y_LA_IA_EN_LA_EDUCACION.pdf"></string>
                   <string role="key" value="checksum"></string>
                   <string value="78b22b00eef0671b7aa7afe31d65fe3e"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -308,7 +308,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="44"></int>
+           <int value="46"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -444,7 +444,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
           <string role="key" value="nextImageId"></string>
           <int value="0"></int>
           <string role="key" value="parentNode"></string>
-          <none></none>
+          <reference key="4"></reference>
          </dictionary>
         </instance>
         <string role="key" value="lastIdevice"></string>
@@ -628,7 +628,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90968"></int>
+                     <int value="90996"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -642,7 +642,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="686_662_2.57"></unicode>
+                   <unicode value="686_662_2.58"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -653,7 +653,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                      <string role="key" value="_storageName"></string>
                      <string value="n_a_futuristic_classroom_with_students._The_man_is_Spanish_with_short_black_hair,_wearing_smart_.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\n_a_futuristic_classroom_with_students._The_man_is_Spanish_with_short_black_hair,_wearing_smart_.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\n_a_futuristic_classroom_with_students._The_man_is_Spanish_with_short_black_hair,_wearing_smart_.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e055a0df6ac384e1135f95386ccda595"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -682,7 +682,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="58"></int>
+              <int value="59"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -818,7 +818,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-expression&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Como tu compañero en el mundo de la enseñanza, mi propósito es hacer tu vida un poco más fácil y tu trabajo más gratificante. Quiero ayudarte a centrarte en lo más importante: educar e inspirar a tus estudiantes. Estoy aquí para ofrecerte apoyo tanto en el aula como en casa, mejorando tus tareas educativas y administrativas de una forma sencilla y efectiva.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/_virtual_assistant,_ChatGPT,_on_a_digital_screen_or_tablet._The_teacher,_a_Caucasian_woman,_is_s.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;300&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/Tu_Copiloto_en_el_Aula_y_en_Casa.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;300&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Aquí te explico cómo puedo ser útil:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;exe-udlContent-block js-hidden&quot;&gt;&lt;header class=&quot;exe-udlContent-header&quot;&gt;&lt;h2&gt;TIENES UN EMAIL&lt;/h2&gt;&lt;/header&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Hola,&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Soy ChatGPT, un asistente virtual que te ayuda a crear contenidos educativos de forma rápida y sencilla. ¿Te gustaría saber cómo puedo mejorar tu labor docente? Te lo cuento en este breve correo.&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-image float-left license-custom&quot; style=&quot;width: 300px;&quot;&gt;&lt;img src=&quot;resources/EMAIDALLE.png&quot; width=&quot;300&quot; height=&quot;300&quot; style=&quot;float: left;&quot;&gt;&lt;/figure&gt;
@@ -853,7 +853,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90956"></int>
+                     <int value="90984"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -867,7 +867,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="751_749_2.29"></unicode>
+                   <unicode value="751_749_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -878,7 +878,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                      <string role="key" value="_storageName"></string>
                      <string value="EMAIDALLE.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\EMAIDALLE.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\EMAIDALLE.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="66b461c3f49497b08a1f51f56b23bc31"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -905,7 +905,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90977"></int>
+                     <int value="91006"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -919,7 +919,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="751_749_2.30"></unicode>
+                   <unicode value="751_749_2.34"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="18">
                     <dictionary>
@@ -928,9 +928,9 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="_virtual_assistant,_ChatGPT,_on_a_digital_screen_or_tablet._The_teacher,_a_Caucasian_woman,_is_s.png"></string>
+                     <string value="Tu_Copiloto_en_el_Aula_y_en_Casa.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\_virtual_assistant,_ChatGPT,_on_a_digital_screen_or_tablet._The_teacher,_a_Caucasian_woman,_is_s.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpknj8xd.eXe\\previews\\allyourbase\\Tu_Copiloto_en_el_Aula_y_en_Casa.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8873f1d50580a2c9b8184f8036655308"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -959,7 +959,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="31"></int>
+              <int value="35"></int>
               <string role="key" value="parentNode"></string>
               <reference key="16"></reference>
              </dictionary>
@@ -1114,7 +1114,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90953"></int>
+                        <int value="90981"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1128,7 +1128,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="772_765_2.12"></unicode>
+                      <unicode value="772_765_2.13"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="22">
                        <dictionary>
@@ -1139,7 +1139,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                         <string role="key" value="_storageName"></string>
                         <string value="chatpatrimonio.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\chatpatrimonio.png"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\chatpatrimonio.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0f822e0989f2ea44a8ea2c558cfc538d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1168,7 +1168,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="13"></int>
+                 <int value="14"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="21"></reference>
                 </dictionary>
@@ -1276,27 +1276,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-engagement&quot;&gt;&lt;section class=&quot;exe-udlContent-block js-hidden&quot;&gt;&lt;header class=&quot;exe-udlContent-header&quot;&gt;&lt;h2&gt;AQUÍ TIENES UN EJEMPLO&lt;/h2&gt;&lt;/header&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p&gt;&lt;br&gt;&lt;!-- Iframe responsivo --&gt;&lt;/p&gt;
-&lt;div class=&quot;responsive-iframe&quot;&gt;&lt;iframe width=&quot;300&quot; height=&quot;150&quot; src=&quot;https://www.flipsnack.com/luravi/profesor-virtual/full-view.html&quot; allowfullscreen=&quot;allowfullscreen&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;style&gt;
-  
-
-    /* Estilos para el iframe responsivo */
-    .responsive-iframe {
-        overflow: hidden;
-        padding-bottom: 56.25%;
-        position: relative;
-        height: 0;
-    }
-    .responsive-iframe iframe {
-        border: none;
-        left: 0;
-        top: 0;
-        height: 100%;
-        width: 100%;
-        position: absolute;
-    }
-&lt;/style&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;exe-udlContent-block js-hidden&quot;&gt;&lt;header class=&quot;exe-udlContent-header&quot;&gt;&lt;h2&gt;Descarga el documento&lt;/h2&gt;&lt;/header&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p&gt;&lt;a href=&quot;resources/Curso_Patrimonio_Cultural_Andalucia.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/PROFESOR_VIRTUAL.gif&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;300&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-engagement&quot;&gt;&lt;section class=&quot;exe-udlContent-block js-hidden&quot;&gt;&lt;header class=&quot;exe-udlContent-header&quot;&gt;&lt;h2&gt;AQUÍ TIENES UN EJEMPLO&lt;/h2&gt;&lt;/header&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p&gt;&lt;a href=&quot;resources/Curso_Patrimonio_Cultural_Andalucia.pdf&quot;&gt;&lt;img src=&quot;resources/PROFESOR_VIRTUAL.gif&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;300&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Haz clic sobre la imagen&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -1317,7 +1297,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90954"></int>
+                        <int value="91007"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1331,7 +1311,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="775_764_2.9"></unicode>
+                      <unicode value="777_764_2.13"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="25">
                        <dictionary>
@@ -1340,11 +1320,11 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
-                        <string value="Curso_Patrimonio_Cultural_Andalucia.pdf"></string>
+                        <string value="PROFESOR_VIRTUAL.gif"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\Curso_Patrimonio_Cultural_Andalucia.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpknj8xd.eXe\\previews\\allyourbase\\PROFESOR_VIRTUAL.gif"></string>
                         <string role="key" value="checksum"></string>
-                        <string value="e5591d3b9de0418400e9f7dc97f7aff3"></string>
+                        <string value="28da4285eb9358da6c5c73db644ab125"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                         <int value="2"></int>
                         <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1369,7 +1349,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90969"></int>
+                        <int value="91008"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1383,7 +1363,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="775_764_2.10"></unicode>
+                      <unicode value="777_764_2.14"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="26">
                        <dictionary>
@@ -1392,11 +1372,11 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
-                        <string value="PROFESOR_VIRTUAL.gif"></string>
+                        <string value="Curso_Patrimonio_Cultural_Andalucia.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\PROFESOR_VIRTUAL.gif"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpknj8xd.eXe\\previews\\allyourbase\\Curso_Patrimonio_Cultural_Andaluc\xc3\xada.pdf"></string>
                         <string role="key" value="checksum"></string>
-                        <string value="28da4285eb9358da6c5c73db644ab125"></string>
+                        <string value="e5591d3b9de0418400e9f7dc97f7aff3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                         <int value="2"></int>
                         <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1423,7 +1403,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="11"></int>
+                 <int value="15"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="21"></reference>
                 </dictionary>
@@ -1432,7 +1412,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
               <string role="key" value="icon"></string>
               <unicode value=""></unicode>
               <string role="key" value="id"></string>
-              <unicode value="775"></unicode>
+              <unicode value="777"></unicode>
               <string role="key" value="ideviceCategory"></string>
               <unicode value="Text and Tasks"></unicode>
               <string role="key" value="lastIdevice"></string>
@@ -1587,7 +1567,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90963"></int>
+                        <int value="90991"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1601,7 +1581,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="771_782_2.4"></unicode>
+                      <unicode value="771_782_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="30">
                        <dictionary>
@@ -1612,7 +1592,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                         <string role="key" value="_storageName"></string>
                         <string value="ing_various_aspects_of_teaching_with_an_AI_assistant._In_one_corner,_a_science_teacher_(Caucasia.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\ing_various_aspects_of_teaching_with_an_AI_assistant._In_one_corner,_a_science_teacher_(Caucasia.png"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\ing_various_aspects_of_teaching_with_an_AI_assistant._In_one_corner,_a_science_teacher_(Caucasia.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="166d822eac73b4443fba85a22745aa48"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1641,7 +1621,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="29"></reference>
                 </dictionary>
@@ -1784,9 +1764,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Experimenta en vivo las capacidades de ChatGPT, desde traducciones hasta análisis de textos en idiomas clásicos como el latín y el griego.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
 &lt;h2&gt;LATÍN&lt;/h2&gt;
-&lt;figure class=&quot;exe-figure exe-image float-left license-CC0&quot; style=&quot;width: 300px; text-align: center;&quot;&gt;&lt;img src=&quot;resources/_three_distinct_territories._To_the_left,_the_Belgae_with_Celtic_warriors_in_their_unique_attire.png&quot; alt=&quot;LA GALIA &quot; title=&quot;LA GALIA &quot; width=&quot;300&quot; height=&quot;200&quot;&gt;
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;DALL-E3&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;DALL-E3&lt;/a&gt;. &lt;span class=&quot;title&quot;&gt;LA GALIA &lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons (CC0)&quot;&gt;CC0&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure class=&quot;exe-figure exe-image float-left license-CC0&quot; style=&quot;width: 300px;&quot;&gt;&lt;img src=&quot;resources/LA_GALIA.png&quot; alt=&quot;LA GALIA &quot; title=&quot;LA GALIA &quot; width=&quot;300&quot; height=&quot;300&quot;&gt;&lt;/figure&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;&quot;Omnia Gallia in partes tres divisa est. Unam partem incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;Hi omnes lingua, institutis, legibus inter se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit.&quot;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;&quot;Commentarii de Bello Gallico&quot;.&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1816,7 +1794,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90957"></int>
+                           <int value="90985"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1830,7 +1808,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="698_698_2.558"></unicode>
+                         <unicode value="698_698_2.560"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="34">
                           <dictionary>
@@ -1841,7 +1819,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="ers_Iliad._The_wrath_of_Achilles_is_causing_chaos_on_the_battlefield_of_Troy._The_sky_is_tumultu.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\ers_Iliad._The_wrath_of_Achilles_is_causing_chaos_on_the_battlefield_of_Troy._The_sky_is_tumultu.png"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\ers_Iliad._The_wrath_of_Achilles_is_causing_chaos_on_the_battlefield_of_Troy._The_sky_is_tumultu.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3fdb735fdb63d87c78d9d9fb367edd72"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1868,7 +1846,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90976"></int>
+                           <int value="91009"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1882,7 +1860,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="698_698_2.559"></unicode>
+                         <unicode value="698_698_2.562"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="35">
                           <dictionary>
@@ -1891,9 +1869,9 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_package"></string>
                            <reference key="2"></reference>
                            <string role="key" value="_storageName"></string>
-                           <string value="_three_distinct_territories._To_the_left,_the_Belgae_with_Celtic_warriors_in_their_unique_attire.png"></string>
+                           <string value="LA_GALIA.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\_three_distinct_territories._To_the_left,_the_Belgae_with_Celtic_warriors_in_their_unique_attire.png"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpknj8xd.eXe\\previews\\allyourbase\\LA_GALIA.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="1dc06166771e081ac234fa3ddcf803b6"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1922,7 +1900,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="560"></int>
+                    <int value="563"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="33"></reference>
                    </dictionary>
@@ -2089,7 +2067,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90960"></int>
+                           <int value="90988"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2103,7 +2081,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="737_736_2.61"></unicode>
+                         <unicode value="737_736_2.65"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="38">
                           <dictionary>
@@ -2114,7 +2092,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="IALANG.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\IALANG.png"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\IALANG.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="a6edfd7a84b9e8dbe2c2f536415adebd"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2141,7 +2119,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90965"></int>
+                           <int value="90993"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2155,7 +2133,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="737_736_2.62"></unicode>
+                         <unicode value="737_736_2.66"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="39">
                           <dictionary>
@@ -2166,7 +2144,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="juegopalabras.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\juegopalabras.png"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\juegopalabras.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="f72d35c5f69c732c02caa99150b6256c"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2193,7 +2171,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90971"></int>
+                           <int value="90999"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2207,7 +2185,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="737_736_2.63"></unicode>
+                         <unicode value="737_736_2.67"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="40">
                           <dictionary>
@@ -2218,7 +2196,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="QUE_PUEDE_HACER_LA_IA_POR_UN_DOCENTE_DE_LENGUA_Y_LITERATURA.pdf"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\QUE_PUEDE_HACER_LA_IA_POR_UN_DOCENTE_DE_LENGUA_Y_LITERATURA.pdf"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\QUE_PUEDE_HACER_LA_IA_POR_UN_DOCENTE_DE_LENGUA_Y_LITERATURA.pdf"></string>
                            <string role="key" value="checksum"></string>
                            <string value="f61d32e4fcf8e8e509faeff7d3bcaa77"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2245,7 +2223,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90973"></int>
+                           <int value="91001"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2259,7 +2237,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="737_736_2.64"></unicode>
+                         <unicode value="737_736_2.68"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="41">
                           <dictionary>
@@ -2270,7 +2248,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="relato.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\relato.png"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\relato.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="fface9d2f78817fc31e73a469d8404c2"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2299,7 +2277,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="65"></int>
+                    <int value="69"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="33"></reference>
                    </dictionary>
@@ -2441,7 +2419,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
 &lt;h2&gt;ACTIVIDADES DE CIENCIAS&lt;/h2&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;¿Quieres aprovechar mi capacidad para enseñar o aprender sobre asignaturas como matemáticas, física, química, biología, genética y geología? ¡Has llegado al sitio ideal! Represento una herramienta extraordinaria que te brinda la oportunidad de interactuar con un asistente inteligente capaz de responder tus consultas, crear contenido creativo y asistirte en profundizar tus conocimientos en los temas de tu interés.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;A través de las siguientes actividades, te demostraré diversas maneras en las que puedes emplearme para explorar variados aspectos de las ciencias de una forma entretenida y enriquecedora.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/_39908d4e-4508-497b-a55f-64e305e80721.jpeg&quot; alt=&quot;&quot; width=&quot;367&quot; height=&quot;367&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/gptciencias.jpeg&quot; alt=&quot;&quot; width=&quot;342&quot; height=&quot;342&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;MATEMÁTICAS&lt;/h2&gt;
 &lt;p&gt;Actividades matemáticas utilizando a ChatGPT como herramienta.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Pista 1:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&quot;Para cruzar el puente mágico, debes decir en voz alta el MCM de 24 y 36. Pídele a ChatGPT que te ayude a calcularlo.&quot;&lt;/p&gt;
@@ -2498,7 +2476,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90955"></int>
+                           <int value="90983"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2512,7 +2490,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="744_744_2.63"></unicode>
+                         <unicode value="744_744_2.70"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="45">
                           <dictionary>
@@ -2523,7 +2501,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="diverse_group_of_students_engaged_in_biology_and_geology_activities_using_ChatGPT_as_a_tool._On_.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\diverse_group_of_students_engaged_in_biology_and_geology_activities_using_ChatGPT_as_a_tool._On_.png"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\diverse_group_of_students_engaged_in_biology_and_geology_activities_using_ChatGPT_as_a_tool._On_.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="9c536ef149a07410630542ec9a09fda7"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2550,7 +2528,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90958"></int>
+                           <int value="90986"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2564,7 +2542,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="744_744_2.64"></unicode>
+                         <unicode value="744_744_2.71"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="46">
                           <dictionary>
@@ -2575,7 +2553,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="fisica.jpeg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\fisica.jpeg"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\fisica.jpeg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="98d22be975416abdfa74287d93644233"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2602,7 +2580,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90959"></int>
+                           <int value="90987"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2616,7 +2594,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="744_744_2.65"></unicode>
+                         <unicode value="744_744_2.72"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="47">
                           <dictionary>
@@ -2627,7 +2605,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="IACIEN.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\IACIEN.png"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\IACIEN.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="b28d4319238ecc52a0f89291559d6d3e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2654,7 +2632,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90967"></int>
+                           <int value="90995"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2668,7 +2646,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="744_744_2.66"></unicode>
+                         <unicode value="744_744_2.73"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="48">
                           <dictionary>
@@ -2679,7 +2657,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="mat.jpeg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\mat.jpeg"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\mat.jpeg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="a40b70c0f15e27a953ddbc870dd66dc9"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2706,7 +2684,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90970"></int>
+                           <int value="90998"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2720,7 +2698,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="744_744_2.67"></unicode>
+                         <unicode value="744_744_2.74"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="49">
                           <dictionary>
@@ -2731,7 +2709,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="QUE_PUEDE_HACER_LA_IA_POR_UN_DOCENTE_DE_CIENCIAS.pdf"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\QUE_PUEDE_HACER_LA_IA_POR_UN_DOCENTE_DE_CIENCIAS.pdf"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\QUE_PUEDE_HACER_LA_IA_POR_UN_DOCENTE_DE_CIENCIAS.pdf"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d8b736395a2889bb144a5d18239ff5ed"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2758,7 +2736,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90972"></int>
+                           <int value="91000"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2772,7 +2750,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="744_744_2.68"></unicode>
+                         <unicode value="744_744_2.75"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="50">
                           <dictionary>
@@ -2783,7 +2761,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_storageName"></string>
                            <string value="quim2.jpeg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\quim2.jpeg"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\quim2.jpeg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="f470b29e0bf850e42e85c3abd34ca9b1"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2810,7 +2788,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="90975"></int>
+                           <int value="91010"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2824,7 +2802,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="744_744_2.69"></unicode>
+                         <unicode value="744_744_2.77"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="51">
                           <dictionary>
@@ -2833,9 +2811,9 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                            <string role="key" value="_package"></string>
                            <reference key="2"></reference>
                            <string role="key" value="_storageName"></string>
-                           <string value="_39908d4e-4508-497b-a55f-64e305e80721.jpeg"></string>
+                           <string value="gptciencias.jpeg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\_39908d4e-4508-497b-a55f-64e305e80721.jpeg"></string>
+                           <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpknj8xd.eXe\\previews\\allyourbase\\gptciencias.jpeg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="4b9e1a811d7ce70a17afa6fca77810b2"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2864,7 +2842,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="70"></int>
+                    <int value="78"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="44"></reference>
                    </dictionary>
@@ -3045,7 +3023,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90974"></int>
+                     <int value="91002"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3059,7 +3037,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="776_748_2.13"></unicode>
+                   <unicode value="776_748_2.14"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="55">
                     <dictionary>
@@ -3070,7 +3048,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                      <string role="key" value="_storageName"></string>
                      <string value="th_a_diverse_group_of_students._In_the_foreground,_a_male_Spanish_teacher_and_a_female_Spanish_t.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\th_a_diverse_group_of_students._In_the_foreground,_a_male_Spanish_teacher_and_a_female_Spanish_t.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\th_a_diverse_group_of_students._In_the_foreground,_a_male_Spanish_teacher_and_a_female_Spanish_t.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ea402d42be89b62b3f56dd10f646413e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3099,7 +3077,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="14"></int>
+              <int value="15"></int>
               <string role="key" value="parentNode"></string>
               <reference key="54"></reference>
              </dictionary>
@@ -3286,7 +3264,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90962"></int>
+                     <int value="90990"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3300,7 +3278,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="778_251_2.456"></unicode>
+                   <unicode value="778_251_2.458"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="59">
                     <dictionary>
@@ -3311,7 +3289,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                      <string role="key" value="_storageName"></string>
                      <string value="IMAGEN_PROMOCIONAL.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\IMAGEN_PROMOCIONAL.jpg"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\IMAGEN_PROMOCIONAL.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="6d327f73e559df6b95f95b54614ab5f6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3338,7 +3316,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90966"></int>
+                     <int value="90994"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3352,7 +3330,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="778_251_2.457"></unicode>
+                   <unicode value="778_251_2.459"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="60">
                     <dictionary>
@@ -3363,7 +3341,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                      <string role="key" value="_storageName"></string>
                      <string value="LOGO_ANDALUCIA_SE_MUEVE.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\LOGO_ANDALUCIA_SE_MUEVE.jpg"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\LOGO_ANDALUCIA_SE_MUEVE.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c046901bf7138282ed872a590ee9932a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3392,7 +3370,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="458"></int>
+              <int value="460"></int>
               <string role="key" value="parentNode"></string>
               <reference key="58"></reference>
              </dictionary>
@@ -3685,7 +3663,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90961"></int>
+                     <int value="90989"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3699,7 +3677,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="781_327_2.227"></unicode>
+                   <unicode value="781_327_2.228"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="65">
                     <dictionary>
@@ -3710,7 +3688,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
                      <string role="key" value="_storageName"></string>
                      <string value="iconoREA.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpwifz9m\\iconoREA.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpxbdrlf\\iconoREA.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="eac32174bdc266bffe57156ce6bb8390"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3739,7 +3717,7 @@ Este curso ofrece a los profesores una formación clara y práctica en Inteligen
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="228"></int>
+              <int value="229"></int>
               <string role="key" value="parentNode"></string>
               <reference key="58"></reference>
              </dictionary>
@@ -3831,7 +3809,7 @@ Una comprensión básica de qué es la Inteligencia Artificial, aunque no se req
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="44"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -6244,7 +6222,7 @@ Promover la alfabetización digital entre docentes y estudiantes."></unicode>
    </list>
    <string role="key" value="28da4285eb9358da6c5c73db644ab125"></string>
    <list>
-    <reference key="26"></reference>
+    <reference key="25"></reference>
    </list>
    <string role="key" value="3fdb735fdb63d87c78d9d9fb367edd72"></string>
    <list>
@@ -6304,7 +6282,7 @@ Promover la alfabetización digital entre docentes y estudiantes."></unicode>
    </list>
    <string role="key" value="e5591d3b9de0418400e9f7dc97f7aff3"></string>
    <list>
-    <reference key="25"></reference>
+    <reference key="26"></reference>
    </list>
    <string role="key" value="ea402d42be89b62b3f56dd10f646413e"></string>
    <list>
